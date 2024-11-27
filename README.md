@@ -41,6 +41,7 @@ https://wanderlust-v7ei.onrender.com/listings
   - error handeling
   - client side errors and server side errors
   - flash messages to notify user
+  - Geocoding to display property/listing on maps using Mapbox 
 
 ---
 
