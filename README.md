@@ -1,4 +1,4 @@
-# **Wunderlust**  
+# **Wunderlust-Airbnb Clone**  
 A replica of Airbnb, built using the **MERN stack** (MongoDB, Express.js, React.js, and Node.js). This project emulates the core functionalities of Airbnb, allowing users to explore, book, and manage stays at unique destinations worldwide. It showcases a clean user interface and a robust backend to manage listings, bookings, and user authentication.
 This Website is on air 🌐, you can visit here
 https://wanderlust-v7ei.onrender.com/listings
